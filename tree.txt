@@ -1,0 +1,17 @@
+Folder PATH listing for volume Data
+Volume serial number is CCB2-1CD2
+D:.
+|   app.py
+|   desktop_app.py
+|   facedetection.py
+|   README.md
+|   tree.txt
+|   
+\---models
+        age_deploy.prototxt
+        age_net.caffemodel
+        deploy.prototxt
+        gender_deploy.prototxt
+        gender_net.caffemodel
+        res10_300x300_ssd_iter_140000.caffemodel
+        
