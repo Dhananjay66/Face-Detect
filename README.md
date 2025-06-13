@@ -114,4 +114,4 @@ The `.exe` will be created inside the `dist/` directory.
 ## 🙋‍♂️ Author
 
 **Dhananjay Pratap Singh**
-📧 [pratapsinghd665@gmail.com](mailto:pratapsinghd665@gmail.com) (replace with your email)
+📧 [pratapsinghd665@gmail.com](mailto:pratapsinghd665@gmail.com)
